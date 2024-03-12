@@ -1,7 +1,7 @@
 /*   STEP 1   */
-export const leagueID = "991567276384022528"; // your league ID
-export const leagueName = "Send it Leauge Invitational"; // your league name
-export const dues = 100; // (optional) used in template constitution page
+export const leagueID = "1048286352934019072"; // your league ID
+export const leagueName = "Duck Dynasty"; // your league name
+export const dues = 10; // (optional) used in template constitution page
 export const dynasty = true; // true for dynasty leagues, false for redraft and keeper
 export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
 
